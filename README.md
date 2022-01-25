@@ -1,3 +1,6 @@
+Angilar WikiSearch
+![1](https://user-images.githubusercontent.com/66522993/151032950-b50cbf31-6e86-4a82-ab52-570dcce895e3.png)
+
 # WikiSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
